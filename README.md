@@ -5,10 +5,10 @@ Based on Akane Shimizu's Cells at Work! series.
 Electronic recreation of the neutrophil receptor according to source material with respect to layout.
 
 ## **Planned functions:**
--Sound output when flagged
--Display output that can change images
--Auto-raise flag when triggered
--Removable fabric panel from costume
+-Sound output when flagged <br>
+-Display output that can change images <br>
+-Auto-raise flag when triggered <br>
+-Removable fabric panel from costume <br>
 
 ## **Possible considerations for future iterations:**
 -Proximity Sensors
